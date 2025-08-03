@@ -1,14 +1,9 @@
 # ui-ux-project
-A comparison of airlines such as indigo and emirate and creating a mix with my own taste
+LexiLand: A learning app for dsylexia
 
-1. Emirates feels luxurious, whereas IndiGo is utilitarian and focused on speed.
-2. IndiGo is simpler; Emirates offers more up-front data, which may overwhelm some users.
-3. IndiGo's step-by-step input feels more focused. Emirates is comprehensive but dense
-4. Emirates wins with inline and more informative calendar
-5. Emirates provides clearer differentiation between classes.
-6. Emirates prioritizes clarity; IndiGo goes for speed and simplicity.
-7. Emirates has a more complete, editable summary. IndiGo’s is functional but limited.
-8. IndiGo is more mobile-friendly. Emirates prioritizes feature richness.
+ Designed a kid-friendly educational app focused on early learners with dyslexia. Crafted intuitive, 
+accessible interfaces using playful visuals, dyslexia-friendly fonts, and interactive learning 
+elements like read-aloud stories, phonics games, and progress tracking. Emphasized usability, 
+color psychology, and inclusive design principles tailored for neurodiverse users.
 
-Now I combined these positive ui into a new airline app/website 
-check out--> https://www.figma.com/design/9Gu2lJBoSClz6asawC98RM/Airline?node-id=0-1&t=UKYipoKjveezr22T-1
+check out--> https://www.figma.com/design/JlOvUovbKFrspfTEeZqzHN/Untitled?node-id=0-1&p=f&t=L8PwnZUMboySK9Cp-0
