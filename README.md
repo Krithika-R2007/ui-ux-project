@@ -6,4 +6,4 @@ accessible interfaces using playful visuals, dyslexia-friendly fonts, and intera
 elements like read-aloud stories, phonics games, and progress tracking. Emphasized usability, 
 color psychology, and inclusive design principles tailored for neurodiverse users.
 
-check out--> https://www.figma.com/design/JlOvUovbKFrspfTEeZqzHN/Untitled?node-id=0-1&p=f&t=L8PwnZUMboySK9Cp-0
+check out--> https://www.figma.com/design/JlOvUovbKFrspfTEeZqzHN/Lexiland?node-id=0-1&p=f&t=nnJGDaBVKqnALLZz-0
